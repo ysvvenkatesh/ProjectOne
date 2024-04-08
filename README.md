@@ -1,2 +1,2 @@
 # ProjectOne
-This is My First Project.
+This is My First Git Repository
